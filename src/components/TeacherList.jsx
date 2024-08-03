@@ -46,7 +46,7 @@ const TeacherList = () => {
         {teachers.map((teacher, index) => (
           <div className="list" key={index}>
             <div className="teacher--detail">
-             {/* <img src={teacher.image} alt={teacher.name} /> */}
+              <img className="teach" src={teacher.image} alt={teacher.name} /> 
               <h2>{teacher.name}</h2>
             </div>
             <span>{teacher.duration}</span>
