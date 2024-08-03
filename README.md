@@ -1,8 +1,27 @@
-# React + Vite
+# Dashboard using react
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## My process
 
-Currently, two official plugins are available:
+### Built with
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React js
+- CSS custom properties
+- [Tuto](https://www.youtube.com/watch?v=BBS43OkFT1o)
+
+
+### Continued development
+Using this technologie has taught me alot 
+And am looking forward to improving
+
+#### Feedbacks
+
+Any report or encouragement is acknowledge
+Feel free to contact
+###### [whatsapp](https://wa.me/qr/KEG2BPOOTS6KE1)
+
+
+
+## Author
+
+- Website - [Precious Ogwo](https://www.your-site.com)
+- Linkdln - [Precious Ogwo](https://www.linkedin.com/in/precious-ogwo-971118255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
