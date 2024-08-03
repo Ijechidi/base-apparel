@@ -14,7 +14,7 @@ const Sidebar = () => {
     <div className="menu">
 <div className="logo">
 <BiBookAlt className="logo-icon"/>
-<h2>Eduflex</h2>
+<h2>Ijeoma</h2>
 </div>
 
 
